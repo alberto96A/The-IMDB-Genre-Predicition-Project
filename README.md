@@ -21,15 +21,9 @@ El análisis comenzó con una exploración de datos (EDA) sobre un dataset de IM
 5. **Dashboard:** Creación de un dashboard interactivo en Power BI con los resultados del modelo y las tendencias de género.
 
 ## **Archivos Requeridos**
-Los datasets necesarios para ejecutar el proyecto deben estar ubicados en una carpeta llamada `datasets` dentro del repositorio de GitHub. Asegúrate de descargar los siguientes archivos y colocarlos en esta carpeta:
+Los datasets necesarios para ejecutar el proyecto se encuentran ubicados en una carpeta llamada `datasets` dentro del repositorio de GitHub. Asegúrate de descargar todos los archivos que estan en esa carpeta ya que son todos los que aparecen en las celdas del cuaderno de Google Collab llamado "análisis_géneros.ipynb" y sin ellos la ejecución del código estará incompleta
 
-- **`df_cleaned_with_gross.csv`** (contiene los datos de IMDb con los ingresos de taquilla).
-- **`Top_1000_Highest_Grossing_Movies_Of_All_Time.csv`** (datos de las películas más taquilleras de todos los tiempos, utilizado para enriquecer el análisis).
-- **`ImdbTitleBasics.csv`** (contiene información básica sobre las películas, como título, año, duración, etc.).
-- **`ImdbTitleAkas.csv`** (contiene los títulos alternativos de las películas en diferentes países).
-- **`ImdbTitleCrew.csv`** (información sobre los equipos de producción de las películas, como directores, productores, guionistas, etc.).
-- **`ImdbTitlePrincipals.csv`** (datos sobre los actores principales de las películas).
-- **`ImdbTitleRatings.csv`** (contiene las valoraciones de las películas).
+
 
 ## **Cómo usarlo**
 
