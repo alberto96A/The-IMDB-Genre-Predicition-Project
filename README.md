@@ -37,16 +37,24 @@ Los datasets necesarios para ejecutar el proyecto se encuentran ubicados en una 
 
    pip install -r requirements.txt
 
+## Archivos Requeridos
 
 3. Debido al tamaño de los archivos de datos, los datasets han sido comprimidos en un archivo RAR dividido en 5 partes para facilitar su carga en el repositorio.
 
 ### Pasos para obtener los datasets:
-3.1 Descarga los 5 archivos RAR que contienen los datasets desde el repositorio:
+
+3.1 Descarga los 5 archivos RAR que contienen los datasets desde el repositorio.
+
 3.2 Extrae los archivos con una herramienta como **WinRAR** o **7-Zip**.
+
 3.3 Una vez extraídos, asegúrate de que todos los archivos estén en la carpeta `datasets` dentro de tu repositorio local.
 
 
-4.  Abre el Jupyter Notebook análisis_géneros.ipynb para visualizar el análisis y los modelos
+
+
+
+
+4. Finalmente abre el cuaderno de Google Collab `análisis_géneros.ipynb` para visualizar el análisis y los modelos.
 
 
 ## **Contribuciones y Notas**
